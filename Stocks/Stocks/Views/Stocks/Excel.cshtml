@@ -1,0 +1,50 @@
+﻿@model StocksDemo.Models.Excel
+
+@{
+    ViewBag.Title = "Upload Excel File";
+}
+<script src="/lib/jquery/dist/jquery.js"></script>
+<script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/js/toastr.min.js"></script>
+<link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+<script type="text/javascript">
+    @if (!string.IsNullOrEmpty((string)TempData["Message"]))
+    {
+        <text>
+            toastr.success('@TempData["Message"]', {
+                timeOut: 3500, // Adjusted timeOut to match the animation duration
+                showDuration: 500, // Duration of the slide in animation
+                hideDuration: 500, // Duration of the slide out animation
+                positionClass: "toast-top-left",
+                customClass: "toast-slide-right",
+            });
+        </text>
+    }
+
+    @if (!string.IsNullOrEmpty((string)TempData["ErrorMessage"]))
+    {
+        <text>
+            toastr.error('@TempData["ErrorMessage"]', {
+                timeOut: 3000,
+                extendedTimeOut: 1000,
+                positionClass: "toast-top-right",
+                customClass: "toast-slide-right",
+            });
+        </text>
+    }
+        
+</script>
+
+
+
+<div class="container">
+    <h2>Upload Excel File</h2>
+    <form action="ExcelUplode" method="post" enctype="multipart/form-data">
+        <div class="form-group">
+            <label for="excelFile">Choose Excel File</label>
+            <input type="file" name="file" id="excelFile" accept=".xlsx, .xls" />
+        </div>
+        <button type="submit" class="btn btn-primary" onclick="ExcelUplode()">Upload</button>
+    </form>
+    <h1 style="margin-top:20px;color:green">@TempData["Message"]</h1>
+    <h1 style="margin-top:20px;color:red">@TempData["ErrorMessage"]</h1>
+</div>

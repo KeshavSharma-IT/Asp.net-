@@ -1,0 +1,135 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\source\\repos\\Stocks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{431DA34B-61D6-4F1D-9CD5-6125A61D7652}|Stocks\\StocksDemo.csproj|c:\\users\\dell\\source\\repos\\stocks\\stocks\\dal\\stocks_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431DA34B-61D6-4F1D-9CD5-6125A61D7652}|Stocks\\StocksDemo.csproj|solutionrelative:stocks\\dal\\stocks_dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431DA34B-61D6-4F1D-9CD5-6125A61D7652}|Stocks\\StocksDemo.csproj|c:\\users\\dell\\source\\repos\\stocks\\stocks\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431DA34B-61D6-4F1D-9CD5-6125A61D7652}|Stocks\\StocksDemo.csproj|solutionrelative:stocks\\controllers\\stockscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431DA34B-61D6-4F1D-9CD5-6125A61D7652}|Stocks\\StocksDemo.csproj|c:\\users\\dell\\source\\repos\\stocks\\stocks\\views\\stocks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{431DA34B-61D6-4F1D-9CD5-6125A61D7652}|Stocks\\StocksDemo.csproj|solutionrelative:stocks\\views\\stocks\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431DA34B-61D6-4F1D-9CD5-6125A61D7652}|Stocks\\StocksDemo.csproj|c:\\users\\dell\\source\\repos\\stocks\\stocks\\views\\stocks\\excel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{431DA34B-61D6-4F1D-9CD5-6125A61D7652}|Stocks\\StocksDemo.csproj|solutionrelative:stocks\\views\\stocks\\excel.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431DA34B-61D6-4F1D-9CD5-6125A61D7652}|Stocks\\StocksDemo.csproj|c:\\users\\dell\\source\\repos\\stocks\\stocks\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{431DA34B-61D6-4F1D-9CD5-6125A61D7652}|Stocks\\StocksDemo.csproj|solutionrelative:stocks\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431DA34B-61D6-4F1D-9CD5-6125A61D7652}|Stocks\\StocksDemo.csproj|c:\\users\\dell\\source\\repos\\stocks\\stocks\\views\\stocks\\vender.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{431DA34B-61D6-4F1D-9CD5-6125A61D7652}|Stocks\\StocksDemo.csproj|solutionrelative:stocks\\views\\stocks\\vender.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{431DA34B-61D6-4F1D-9CD5-6125A61D7652}|Stocks\\StocksDemo.csproj|c:\\users\\dell\\source\\repos\\stocks\\stocks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{431DA34B-61D6-4F1D-9CD5-6125A61D7652}|Stocks\\StocksDemo.csproj|solutionrelative:stocks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vender.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Stocks\\Stocks\\Views\\Stocks\\Vender.cshtml",
+              "RelativeDocumentMoniker": "Stocks\\Views\\Stocks\\Vender.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Stocks\\Stocks\\Views\\Stocks\\Vender.cshtml",
+              "RelativeToolTip": "Stocks\\Views\\Stocks\\Vender.cshtml",
+              "ViewState": "AQIAAHQAAACA/P///78twCsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T08:25:36.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StocksController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Stocks\\Stocks\\Controllers\\StocksController.cs",
+              "RelativeDocumentMoniker": "Stocks\\Controllers\\StocksController.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Stocks\\Stocks\\Controllers\\StocksController.cs",
+              "RelativeToolTip": "Stocks\\Controllers\\StocksController.cs",
+              "ViewState": "AQIAAKYAAAAAAAAAAAAawLkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T04:22:38.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Excel.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Stocks\\Stocks\\Views\\Stocks\\Excel.cshtml",
+              "RelativeDocumentMoniker": "Stocks\\Views\\Stocks\\Excel.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Stocks\\Stocks\\Views\\Stocks\\Excel.cshtml",
+              "RelativeToolTip": "Stocks\\Views\\Stocks\\Excel.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAABSPR0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T07:30:54.534Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Stocks\\Stocks\\Views\\Stocks\\Index.cshtml",
+              "RelativeDocumentMoniker": "Stocks\\Views\\Stocks\\Index.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Stocks\\Stocks\\Views\\Stocks\\Index.cshtml",
+              "RelativeToolTip": "Stocks\\Views\\Stocks\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-27T15:42:41.521Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Stocks_DAL.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Stocks\\Stocks\\DAL\\Stocks_DAL.cs",
+              "RelativeDocumentMoniker": "Stocks\\DAL\\Stocks_DAL.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Stocks\\Stocks\\DAL\\Stocks_DAL.cs",
+              "RelativeToolTip": "Stocks\\DAL\\Stocks_DAL.cs",
+              "ViewState": "AQIAAGAAAAAAZmZmZsYwwKkAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-24T04:26:55.551Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Stocks\\Stocks\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Stocks\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Stocks\\Stocks\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Stocks\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAAoAAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-03-30T10:16:14.304Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\source\\repos\\Stocks\\Stocks\\Program.cs",
+              "RelativeDocumentMoniker": "Stocks\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\source\\repos\\Stocks\\Stocks\\Program.cs",
+              "RelativeToolTip": "Stocks\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-30T08:46:52.33Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
